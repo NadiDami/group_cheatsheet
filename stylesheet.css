@@ -1,4 +1,12 @@
 td.code {
-    font-family: sans-serif;
-    font-weight:bold;
+  font-family: sans-serif;
+  font-weight:bold;
+}
+
+h1 {
+  color: pink;
+}
+
+table{
+  border: 2px black;
 }
